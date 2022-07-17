@@ -5,7 +5,7 @@ Collectively, I have all of my files that I worked on throughout Module 11 in my
 My UFOs repository: https://github.com/michaelfoz/UFOs
 
 
-To avoid confusion, I created a new (2nd) repository in my GitHub for the Module 11 Challenge (I named the repository "UCD_Module_11_UFOs"). 
+To avoid confusion, I created a this (2nd) repository in my GitHub for the Module 11 Challenge (I named the repository "UCD_Module_11_UFOs"). 
 
 The Deliverable 1 instruction has instructions rename the original app.js (which was created throughout Module 11) to app_1.js, and to rename the ufo_starterCode.js file to app.js for the Module 11 Challenge. 
 Initially, I created a separate folder in my 1st repository [UFOs](https://github.com/michaelfoz/UFOs) that I named "[Module 11 Challenge](https://github.com/michaelfoz/UFOs/tree/main/Module%2011%20Challenge)" because I wanted to keep the files I worked on throughout the module separate from the new files that would be created/used for Deliverable 1. 
