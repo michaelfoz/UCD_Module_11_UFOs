@@ -20,5 +20,8 @@ I tried to follow the instructions in this link ([Configuring a publishing sourc
 After creating a new GitHub Pages for this repository, I was able to see that the GitHub Page was displaying my finished project. (Please let me know if there is a specific way to choose a root/docs in GitHub Pages).
 
 # Overview
+In Module 11, we learn about a front end development language, JavaScript.  This language is used to add functions and customizations (in this case, a dynamic webpage wherein a user is able to enter search criteria into a field, which prompts the webpage to load results that match the entered criteria). All of the data is initially stored in the JavaScript file data.js in the form of a list (var data = []). The JavaScript file app.js builds a table from this list. All of the data is displayed in the script of the html.index file which references both the data.js file and the app.js file.
+
 # Results
+
 # Summary
