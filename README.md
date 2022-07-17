@@ -14,5 +14,4 @@ I wanted to keep them separate because I put in notes/comments within each files
 I ran into the problem of not being able to specify or tell my GitHub Pages that I wanted to display or host my Module 11 Challenge folder and the finished index.html file it contains onto my website, which is why I created the 2nd repository (UCD_Module_11_UFOs). 
 I tried to follow the instructions in this link ([Configuring a publishing source for your GitHub Pages site - GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)), but I still could not understand what to do.
 
-After creating a new GitHub Pages for this repository, I was able to see that the GitHub Page was displaying my fini
-shed project. (Please let me know if there is a specific way to choose a root/docs in GitHub Pages).
+After creating a new GitHub Pages for this repository, I was able to see that the GitHub Page was displaying my finished project. (Please let me know if there is a specific way to choose a root/docs in GitHub Pages).
