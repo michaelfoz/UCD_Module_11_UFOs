@@ -3,7 +3,7 @@ Please view this link for my Module 11 Challenge (Deliverable 1): https://michae
 
 Collectively, I have all of my files that I worked on throughout Module 11 in my 1st UFOs repository, and I have my actual project uploaded into my 2nd repository (UCD_Module_11_UFOs).
 
-My UFOs repository: https://github.com/michaelfoz/UFOs
+(My UFOs repository: https://github.com/michaelfoz/UFOs)
 
 
 To avoid confusion, I created a this (2nd) repository for the Module 11 Challenge (I named the repository "UCD_Module_11_UFOs"). 
