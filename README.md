@@ -19,4 +19,6 @@ I tried to follow the instructions in this link ([Configuring a publishing sourc
 
 After creating a new GitHub Pages for this repository, I was able to see that the GitHub Page was displaying my finished project. (Please let me know if there is a specific way to choose a root/docs in GitHub Pages).
 
+# Overview
+# Results
 # Summary
