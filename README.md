@@ -31,3 +31,7 @@ Below, is an example of what the webpage loads when the user enters "ar" when se
 
 ![screenshot](https://github.com/michaelfoz/UCD_Module_11_UFOs/blob/main/UFO_Finder_State_Filter_ar.png?raw=true)
 # Summary
+
+Though the webpage is up and running, it could be more helpful to the user if there were a list of options to choose from when it comes to entering search criteria. The html.index file could be edited do display these options for the user.
+
+The script also seems to be case-sensitive. In the image above, the user would have to type ar (for Arkansas) exactly in lowercase, otherwise nothing would populate or load on the webpage.  Additional script could be added so uppercase as well as lowercase entries are accepted when the user enters their search criteria into the field(s)/input boxes.
