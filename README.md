@@ -23,7 +23,11 @@ After creating a new GitHub Pages for this repository, I was able to see that th
 In Module 11, we learn about a front end development language, JavaScript.  This language is used to add functions and customizations (in this case, a dynamic webpage wherein a user is able to enter search criteria into a field, which prompts the webpage to load results that match the entered criteria). All of the data is initially stored in the JavaScript file data.js in the form of a list (var data = []). The JavaScript file app.js builds a table from this list. All of the data is displayed in the script of the html.index file which references both the data.js file and the app.js file.
 
 # Results
+Using the webpage is straight-forward and user-friendly. On the left-hand side of the webpage are fields or input boxes wherein the user can enter a date, a city, a, state, a country, or shape. When pressing "enter," the webpage then loads the data from the data.js file with what the user enters.
+
 ![screenshot](https://github.com/michaelfoz/UCD_Module_11_UFOs/blob/main/UFO_Finder_State_Filter.png?raw=true)
+
+Below, is an example of what the webpage loads when the user enters "ar" when searching a specific state.
 
 ![screenshot](https://github.com/michaelfoz/UCD_Module_11_UFOs/blob/main/UFO_Finder_State_Filter_ar.png?raw=true)
 # Summary
